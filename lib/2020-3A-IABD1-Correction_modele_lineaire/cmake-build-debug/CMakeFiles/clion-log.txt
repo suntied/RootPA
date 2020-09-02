@@ -1,0 +1,5 @@
+C:\Users\vidal\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" F:\2020-3A-IABD1-Correction_modele_lineaire
+-- Configuring done
+WARNING: Target "2020_3A_IABD1_Correction_modele_lineaire" requests linking to directory "F:/2020-3A-IABD1-Correction_modele_lineaire\Eigen".  Targets may link only to libraries.  CMake is dropping the item.
+-- Generating done
+-- Build files have been written to: F:/2020-3A-IABD1-Correction_modele_lineaire/cmake-build-debug

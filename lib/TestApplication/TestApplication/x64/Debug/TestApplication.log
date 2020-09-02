@@ -1,0 +1,7 @@
+﻿  Layer.cpp
+  MLP.cpp
+C:\Users\Marco\source\repos\TestApplication\TestApplication\MLP.cpp(7,29): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  MlpService.cpp
+  TestApplication.cpp
+  Génération de code en cours...
+  TestApplication.vcxproj -> C:\Users\Marco\source\repos\TestApplication\x64\Debug\TestApplication.exe
